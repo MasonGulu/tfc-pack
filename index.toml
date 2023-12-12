@@ -77,6 +77,16 @@ hash = "ff9049b6f1af72439e267a325cdff9d19ba32040e848d991179a26fe04edb46f"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
 file = "mods/firmacivilization.pw.toml"
 hash = "b3b4e7532554c9e178f96544af48a7d33c3fb67aa7de6c811464b03c5b778014"
 metafile = true
@@ -104,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "3f4c04ee9c02b635007750e70cf66e3a693142ea20b1cb25be79eb90b7d32abe"
 metafile = true
 
 [[files]]
