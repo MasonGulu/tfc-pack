@@ -1,0 +1,13 @@
+name = "Dynamic Trees TFC"
+filename = "dttfc-1.0.0-alpha5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffca075f26cff94648783f6677ba856a6bf32094"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4766345
+project-id = 362368

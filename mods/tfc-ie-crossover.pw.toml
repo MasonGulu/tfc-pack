@@ -1,0 +1,13 @@
+name = "TFC + IE Crossover"
+filename = "tfc_ie_addon-0.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "871e70fbc1a9aa13fdc3028261ad056926b43179"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4931792
+project-id = 830886

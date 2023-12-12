@@ -1,0 +1,13 @@
+name = "TFC Weather"
+filename = "WeatherTFC-1.18.2-1.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76de475d63f6165b7c63af56706cd341eed3fba3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4524746
+project-id = 831919

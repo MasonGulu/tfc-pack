@@ -1,0 +1,13 @@
+name = "TFC Gamin"
+author = "Mason"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d16e6cb7985a06f0d874953099dbe418b66d3b4fc2f24d3177e0930f4def654"
+
+[versions]
+forge = "40.2.14"
+minecraft = "1.18.2"

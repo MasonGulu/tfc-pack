@@ -1,0 +1,116 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/astikor-carts-tfc.pw.toml"
+hash = "38cf2ae8658070ae63872df8d0b761e55abf4ba0c36d6f305b5b7cf9c2e8ce90"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "f8f870fbe565f81156ac054ab32ebb6009e214af70b057874965b99896e059eb"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "ce026fd0514b1ca7d8dfc7816044f4d3b36c7f74d90f7751eed4e75acaf7d044"
+metafile = true
+
+[[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
+metafile = true
+
+[[files]]
+file = "mods/dynamictrees.pw.toml"
+hash = "687763852b583a03f03ab2a235be39428e5a08490f63c7d1186a6aadd1b355c7"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "75073044d248bc56e415af3e5e820ad204e2bcc048f8208ea7e8130b8449e782"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreestfc.pw.toml"
+hash = "ff9049b6f1af72439e267a325cdff9d19ba32040e848d991179a26fe04edb46f"
+metafile = true
+
+[[files]]
+file = "mods/firmacivilization.pw.toml"
+hash = "b3b4e7532554c9e178f96544af48a7d33c3fb67aa7de6c811464b03c5b778014"
+metafile = true
+
+[[files]]
+file = "mods/firmalife.pw.toml"
+hash = "56d9169ef58784d2a11598611d26b5ced54c4b3ab269ae8182528e8ee72a2802"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "5e817210ce0652cec8fd1b78b0b24c1a2d9b5a1f54fcd13b87aa2ec362fc7c4d"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
+metafile = true
+
+[[files]]
+file = "mods/terrafirmacraft.pw.toml"
+hash = "477ab0b0dfb0f67795aad813ce1ed73c64336b0259cb258ec130f3244664d904"
+metafile = true
+
+[[files]]
+file = "mods/tfc-ambiental.pw.toml"
+hash = "137cd9023e79773dfd4674204c3fda9f3c4a6d5173b0efcc5559f0090cb4f069"
+metafile = true
+
+[[files]]
+file = "mods/tfc-casting-with-channels.pw.toml"
+hash = "6b7aedca66abd1ac1d70d669f81b2263bc36408e3e190b603db7e1824d3fdf11"
+metafile = true
+
+[[files]]
+file = "mods/tfc-homestead.pw.toml"
+hash = "062e44e033a95daa50e0501893aafcd1733283d1a8346f4c727249b3035e470e"
+metafile = true
+
+[[files]]
+file = "mods/tfc-ie-crossover.pw.toml"
+hash = "248f74c1cc51e719871bda02aaeb035e9ccdee517aa2e04ed029875060507abd"
+metafile = true
+
+[[files]]
+file = "mods/tfc-weather.pw.toml"
+hash = "d001d0f5be82941336290a3ea22d3c64d6da2facb3851a49a15ee2f5c96ba7db"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "0ea77f6710de18ade4af3aa4f0571649698173529e2e471ae4e8d1778df3509a"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "5a03f0fc83f9d9b490eae6b0a596805e556029198a449adcaa8a18fb2e2b4a66"
+metafile = true
