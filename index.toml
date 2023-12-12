@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Weather2/Foliage.toml"
+hash = "5e2a2d7c184f8aff2fa2cd778c3f1796e88109afb42b92df5d26f24d520501f5"
+
+[[files]]
+file = "config/Weather2/Misc-1.toml.bak"
+hash = "27a835cef59d9f24c7865987105c6d63c4f4efc4057a8bf95eaadaded091c4d4"
+
+[[files]]
+file = "config/Weather2/Misc.toml"
+hash = "01878199ffdce7c25270772ce4fd2194a773198994b2727c0c53cd700420711b"
+
+[[files]]
+file = "config/Weather2/Particle.toml"
+hash = "6b00f51733716a31663e9cd91d1b90cfaaa2cf1c03a2faec89f83acd60dc52f7"
+
+[[files]]
+file = "config/Weather2/Sand.toml"
+hash = "008532d35d29dad1fbc8d2a2691bef78d1071ff8229d30501694aaa54335a90b"
+
+[[files]]
+file = "config/Weather2/Snow.toml"
+hash = "9d0c731f67989ffc10d1b76aad3d29255345cc1340c922ffdbd8595f95efe71a"
+
+[[files]]
+file = "config/Weather2/Storm.toml"
+hash = "edbec89d13f79c8e77b94499f2827bd3a9212675cee5cba6b134c05e80971623"
+
+[[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "df9fd95f072f4361c08c3c8b5711148b3c50e1731ab4551a724503ac627d719d"
+
+[[files]]
+file = "config/Weather2/Wind.toml"
+hash = "659ce9afed2c6946ff06160da20e40d3e905f80323995cd188ad6fdffc2dde21"
+
+[[files]]
 file = "mods/astikor-carts-tfc.pw.toml"
 hash = "38cf2ae8658070ae63872df8d0b761e55abf4ba0c36d6f305b5b7cf9c2e8ce90"
 metafile = true
@@ -17,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "ce026fd0514b1ca7d8dfc7816044f4d3b36c7f74d90f7751eed4e75acaf7d044"
+hash = "54a39084fa9c4965abdb2d34509e6fd59962366a8c88b4cf38da6eb930c8da82"
 metafile = true
 
 [[files]]

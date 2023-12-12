@@ -7,12 +7,12 @@ hash-format = "sha1"
 hash = "fc6e96ce790408acaa18c91f1226385e33e0e5d4"
 mode = "metadata:curseforge"
 
-[option]
-optional = true
-default = false
-description = "Increased render distances using LOD"
-
 [update]
 [update.curseforge]
 file-id = 4924657
 project-id = 508933
+
+[option]
+optional = true
+default = false
+description = "Increased render distances using LOD"
