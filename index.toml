@@ -127,11 +127,6 @@ hash = "3f4c04ee9c02b635007750e70cf66e3a693142ea20b1cb25be79eb90b7d32abe"
 metafile = true
 
 [[files]]
-file = "mods/randomtp.pw.toml"
-hash = "110e4f27d34d87223bc342e4298f38fc599aae4590a1c6ef8e9e8a406d3b7b11"
-metafile = true
-
-[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
