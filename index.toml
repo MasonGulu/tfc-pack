@@ -42,6 +42,11 @@ hash = "38cf2ae8658070ae63872df8d0b761e55abf4ba0c36d6f305b5b7cf9c2e8ce90"
 metafile = true
 
 [[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "79327710bcb10023327b53169c3015632539c3c71ad62d7aa40129a8cfaa60d5"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "f8f870fbe565f81156ac054ab32ebb6009e214af70b057874965b99896e059eb"
 metafile = true
