@@ -82,6 +82,11 @@ hash = "ff9049b6f1af72439e267a325cdff9d19ba32040e848d991179a26fe04edb46f"
 metafile = true
 
 [[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "1dacaf4a1e4d532511d96ab9219bfcba65725bc428869ea669175c32cb11385a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
 metafile = true
