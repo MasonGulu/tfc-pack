@@ -117,6 +117,11 @@ hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
 metafile = true
 
 [[files]]
+file = "mods/macaws-for-terrafirmacraft.pw.toml"
+hash = "3e67c2a4223a6e3728e6aa1d3628bed372e91776f6fa4a08e691926191bbcd47"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true

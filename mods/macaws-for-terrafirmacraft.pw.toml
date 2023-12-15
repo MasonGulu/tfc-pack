@@ -1,0 +1,13 @@
+name = "All-In-One, Macaw's Mods for TerraFirmaCraft"
+filename = "Mcw_TFC_aio-0.5.7-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6339bb01b7d7f099d120ff9e565d6357226ea7b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4930942
+project-id = 908983
