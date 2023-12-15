@@ -122,6 +122,11 @@ hash = "3e67c2a4223a6e3728e6aa1d3628bed372e91776f6fa4a08e691926191bbcd47"
 metafile = true
 
 [[files]]
+file = "mods/northerncompass.pw.toml"
+hash = "2f2ffe089e7d7137ed1325d93e7f92b53886d8cac15cb88cd3f5c4b618764e81"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
 metafile = true

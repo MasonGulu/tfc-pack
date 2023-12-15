@@ -1,0 +1,13 @@
+name = "Northern Compass"
+filename = "NorthernCompass-Forge-1.18.2-1.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db636540fbbed750e7afed864e757b8fc2439851"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3745456
+project-id = 352301
