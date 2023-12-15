@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/RandomTP/config.yml"
+hash = "050775bee46c79982e8116078dcb8fadf9a1522766027526f472f55263925b05"
+
+[[files]]
+file = "config/RandomTP/messages.yml"
+hash = "8455bdf1690a5a8f4586effb34ccfadbcb50962d5729f5838f58c04c277c9f50"
+
+[[files]]
 file = "config/Weather2/Foliage.toml"
 hash = "5e2a2d7c184f8aff2fa2cd778c3f1796e88109afb42b92df5d26f24d520501f5"
 
@@ -83,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.pw.toml"
-hash = "1dacaf4a1e4d532511d96ab9219bfcba65725bc428869ea669175c32cb11385a"
+hash = "29a154597b1876e6882b4c5fcf9a1d0f158ffe70a04eacbfb348017d8e766c5c"
 metafile = true
 
 [[files]]
