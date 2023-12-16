@@ -1,0 +1,13 @@
+name = "TerraFirmaJousting"
+filename = "tfjousting-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "567cb7a08656a74e9fce670124f02a1b90c1f29d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4665936
+project-id = 885840

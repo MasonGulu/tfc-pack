@@ -125,6 +125,11 @@ hash = "79be136bfe56867556786ec4abe2d3d7ad35d8f33070f55c42590820e698fc56"
 metafile = true
 
 [[files]]
+file = "mods/jousting.pw.toml"
+hash = "0fdc1aa670e83bc57ccde18f80a02e1522d07eff481d37cebde1b49c30f118ae"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
 metafile = true
@@ -162,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
 hash = "477ab0b0dfb0f67795aad813ce1ed73c64336b0259cb258ec130f3244664d904"
+metafile = true
+
+[[files]]
+file = "mods/terrafirmajousting.pw.toml"
+hash = "321f2eaaf36a0a48bda55aee070f0fc4f6333ccdde59990dd4748f906f4f91a9"
 metafile = true
 
 [[files]]
