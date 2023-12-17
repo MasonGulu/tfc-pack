@@ -12,7 +12,7 @@ mode = "metadata:curseforge"
 file-id = 4644953
 project-id = 561885
 
-[optional]
+[option]
 optional = true
 default = true
 description = "super vision"
