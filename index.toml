@@ -90,6 +90,11 @@ hash = "ff9049b6f1af72439e267a325cdff9d19ba32040e848d991179a26fe04edb46f"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "f24d49a2a8594daf4a197f4367d3c836c944132f642e93c4d81111b737c7d837"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
 metafile = true
@@ -127,6 +132,16 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "6df57382b98024eec4ac38898d68652e9f01751639ba40b738086ab30b426b31"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom-forge.pw.toml"
+hash = "c8e4850c782f55cb03c182309b45eba7edbee11db86d70d80b65f339206e1aad"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "4c40f064c03c771f495d07599b938adddddab5fbd697844fb923cc4a4199961a"
 metafile = true
 
 [[files]]
