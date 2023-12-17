@@ -60,6 +60,11 @@ hash = "f8f870fbe565f81156ac054ab32ebb6009e214af70b057874965b99896e059eb"
 metafile = true
 
 [[files]]
+file = "mods/corpse.pw.toml"
+hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
 metafile = true
