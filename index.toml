@@ -165,6 +165,11 @@ hash = "3f4c04ee9c02b635007750e70cf66e3a693142ea20b1cb25be79eb90b7d32abe"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps-forge.pw.toml"
+hash = "486bc639b7fe90581710a4d332981019b1fe5db889c1bd86ff0d1792a60ca2df"
+metafile = true
+
+[[files]]
 file = "mods/randomtp.pw.toml"
 hash = "1fc950b03a49b11025e0e928da0778102ab4f82f8c445dafcd554f1b5bcd9078"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "5c6a9121cc4b1d65bd637f3c1da4abfcb00cf0156caa7c924f40ffea4c8a15a7"
 metafile = true
 
 [[files]]
