@@ -1,0 +1,13 @@
+name = "TerraFirmaShips"
+filename = "tfships-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6KeOjM8n/versions/406NjoPQ/tfships-1.0.jar"
+hash-format = "sha1"
+hash = "9a78797a5514173768e534c3c5e64755c1eb11c2"
+
+[update]
+[update.modrinth]
+mod-id = "6KeOjM8n"
+version = "406NjoPQ"

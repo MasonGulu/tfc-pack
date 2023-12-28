@@ -65,6 +65,11 @@ hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "771f8cb03639482a3e1858bd33a35075c904541edcc91c39214f086b03cbe624"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "3fbeebeafd2cf899a3235106343689c2e8522deb8eea32fe1bbdb28563fd57f7"
 metafile = true
@@ -185,6 +190,11 @@ hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
 
 [[files]]
+file = "mods/small-ships.pw.toml"
+hash = "360d79ca11d217354153bd018c5e317334bd65a169c0aa9e635ebeb61d62c206"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "5c6a9121cc4b1d65bd637f3c1da4abfcb00cf0156caa7c924f40ffea4c8a15a7"
 metafile = true
@@ -197,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/terrafirmajousting.pw.toml"
 hash = "321f2eaaf36a0a48bda55aee070f0fc4f6333ccdde59990dd4748f906f4f91a9"
+metafile = true
+
+[[files]]
+file = "mods/terrafirmaships.pw.toml"
+hash = "0df4b3e75ad79a8257df5f532dfe9487865f4c2bdc18fb65d50577da390f6e85"
 metafile = true
 
 [[files]]
