@@ -1,0 +1,23 @@
+import crafttweaker.api.recipe.Replacer;
+
+Replacer.forMods("smallships", "tfcships")
+.replace(<item:tfc:wood/boat/acacia>, <item:tfc:wood/log/acacia>)
+.replace(<item:tfc:wood/boat/ash>, <item:tfc:wood/log/ash>)
+.replace(<item:tfc:wood/boat/aspen>, <item:tfc:wood/log/aspen>)
+.replace(<item:tfc:wood/boat/birch>, <item:tfc:wood/log/birch>)
+.replace(<item:tfc:wood/boat/blackwood>, <item:tfc:wood/log/blackwood>)
+.replace(<item:tfc:wood/boat/chestnut>, <item:tfc:wood/log/chestnut>)
+.replace(<item:tfc:wood/boat/douglas_fir>, <item:tfc:wood/log/douglas_fir>)
+.replace(<item:tfc:wood/boat/hickory>, <item:tfc:wood/log/hickory>)
+.replace(<item:tfc:wood/boat/kapok>, <item:tfc:wood/log/kapok>)
+.replace(<item:tfc:wood/boat/maple>, <item:tfc:wood/log/maple>)
+.replace(<item:tfc:wood/boat/oak>, <item:tfc:wood/log/oak>)
+.replace(<item:tfc:wood/boat/palm>, <item:tfc:wood/log/palm>)
+.replace(<item:tfc:wood/boat/pine>, <item:tfc:wood/log/pine>)
+.replace(<item:tfc:wood/boat/rosewood>, <item:tfc:wood/log/rosewood>)
+.replace(<item:tfc:wood/boat/sequoia>, <item:tfc:wood/log/sequoia>)
+.replace(<item:tfc:wood/boat/spruce>, <item:tfc:wood/log/spruce>)
+.replace(<item:tfc:wood/boat/sycamore>, <item:tfc:wood/log/sycamore>)
+.replace(<item:tfc:wood/boat/white_cedar>, <item:tfc:wood/log/white_cedar>)
+.replace(<item:tfc:wood/boat/willow>, <item:tfc:wood/log/willow>)
+.execute();

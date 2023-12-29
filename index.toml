@@ -248,3 +248,7 @@ metafile = true
 file = "mods/weather-storms-tornadoes.pw.toml"
 hash = "5a03f0fc83f9d9b490eae6b0a596805e556029198a449adcaa8a18fb2e2b4a66"
 metafile = true
+
+[[files]]
+file = "scripts/small_ships.zs"
+hash = "57754c7d5bb1f1e91b7e43f3313b5a4b135145ca265161bb158315d1c07d5ea0"
