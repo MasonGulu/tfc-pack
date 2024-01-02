@@ -250,5 +250,9 @@ hash = "5a03f0fc83f9d9b490eae6b0a596805e556029198a449adcaa8a18fb2e2b4a66"
 metafile = true
 
 [[files]]
+file = "resourcepacks/TFC_TNG-AnvilGUI-1.18.2.zip"
+hash = "9604cc6c0ba889a3e54e952ba4e08dc1123d896437c452b8e425c66d96b4d934"
+
+[[files]]
 file = "scripts/small_ships.zs"
-hash = "57754c7d5bb1f1e91b7e43f3313b5a4b135145ca265161bb158315d1c07d5ea0"
+hash = "a53946eed38f9943f31f52498b15ac29cf180287e6aa2d999131e24a0a4e3b20"
