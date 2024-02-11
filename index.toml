@@ -55,6 +55,11 @@ hash = "79327710bcb10023327b53169c3015632539c3c71ad62d7aa40129a8cfaa60d5"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "ac1b752858973dbec55ecd6b98771367fa1b8df5b7dba4b4183952437777b8b8"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "f8f870fbe565f81156ac054ab32ebb6009e214af70b057874965b99896e059eb"
 metafile = true
@@ -197,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "5c6a9121cc4b1d65bd637f3c1da4abfcb00cf0156caa7c924f40ffea4c8a15a7"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "2494907e4f552f7dc746d884a1bf9513b00857b3eb05dadcec9e004bfda80cf1"
 metafile = true
 
 [[files]]
